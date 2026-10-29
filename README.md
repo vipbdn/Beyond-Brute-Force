@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/vipbdn/Beyond-Brute-Force/tree/master/0344-reverse-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vipbdn/Beyond-Brute-Force/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Array
 |  |
 | ------- |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/vipbdn/Beyond-Brute-Force/tree/master/0231-power-of-two) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vipbdn/Beyond-Brute-Force/tree/master/1221-split-a-string-in-balanced-strings) |
+## Counting
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/vipbdn/Beyond-Brute-Force/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
